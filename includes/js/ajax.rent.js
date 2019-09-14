@@ -24,8 +24,8 @@ function rs_save_for_btn($) {
             },
             success: function(data) {
                     console.log(data);
-                    $("#rent_btn").remove();
-                    rs_save_for_($);
+                    $("#rent_btn").val('');
+                    get_rent($);
 
             },
             error: function(error) {

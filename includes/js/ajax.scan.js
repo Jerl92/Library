@@ -31,10 +31,9 @@ function rs_save_for_later($) {
 					} else {
 						console.log(data);
 						$(".book-name").html(data);
-						$("#scan-book-isbn").val('');
-						rs_save_for($);
-						rs_save_for_user($);
 						rs_save_for_btn($);
+						get_rent($);
+						$("#scan-book-isbn").val('');
 					}
 				},
 				error: function(error) {

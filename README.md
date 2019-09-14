@@ -7,9 +7,9 @@ Stable tag: 4.9</br>
 License: GPLv2 or later</br>
 License URI: http://www.gnu.org/licenses/gpl-2.0.html</br>
 
-## Library, A Plugin for WordPress to add a fully rental book ans stuff system for your user</br>
+## Library, A Plugin for WordPress</br>
 
-<img style="max-width: 100%;" src="https://i.ibb.co/hdT3tgL/library.jpg" alt="Library" data-canonical-src="https://i.ibb.co/hdT3tgL/library.jpg" />
+<img width="50%" src="https://i.ibb.co/hdT3tgL/library.jpg" alt="Library" data-canonical-src="https://i.ibb.co/hdT3tgL/library.jpg" />
 
 ## Description</br>
 
